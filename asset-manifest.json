@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactStylingExercise/static/css/main.76c32c19.css",
+    "main.js": "/ReactStylingExercise/static/js/main.0ab02590.js",
+    "index.html": "/ReactStylingExercise/index.html",
+    "main.76c32c19.css.map": "/ReactStylingExercise/static/css/main.76c32c19.css.map",
+    "main.0ab02590.js.map": "/ReactStylingExercise/static/js/main.0ab02590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c32c19.css",
+    "static/js/main.0ab02590.js"
+  ]
+}
